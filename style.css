@@ -1,0 +1,28 @@
+style.css
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: azure;
+    margin: 0;
+    padding: 40px;
+}
+h1{
+    color: #333;
+}
+.header{
+    background-color: aquamarine;
+    color: black;
+    padding: 20px;
+
+}
+.personal-info{
+    background-color: lightcyan;
+    color: blue;
+    padding: 20px;
+
+}
+.skills{
+    background-color: linen;
+    color: darkblue;
+    padding: 20px;
+
+}
